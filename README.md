@@ -122,4 +122,3 @@ Feel free to open issues or submit pull requests if you’d like to improve this
 ## License
 
 This project is licensed under the MIT License.
-```
